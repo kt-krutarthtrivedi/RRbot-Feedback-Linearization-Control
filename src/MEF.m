@@ -1,3 +1,6 @@
+% Robot Controls - Feedback Linearization Control for RRbot Manipulator
+% Author: Krutarth Trivedi | ktrivedi@wpi.edu
+
 function [M,C,G] = MEF()
     syms theta1 theta2 theta1_dot theta2_dot theta1_ddot theta2_ddot t1 t2 'real'
     syms m1 r1 l1 I1 m2 r2 l2 I2 g 'real' 'positive'

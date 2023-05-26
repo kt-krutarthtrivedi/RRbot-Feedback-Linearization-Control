@@ -1,7 +1,6 @@
-%
-% RBE502 - Spring 2023 | Programming Assignment 3
+% Robot Controls - Feedback Linearization Control for RRbot Manipulator
 % Author: Krutarth Trivedi | ktrivedi@wpi.edu
-%
+
 clear; 
 clc; 
 close all;
